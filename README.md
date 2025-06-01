@@ -1,16 +1,31 @@
-## Hi there 👋
+khushi-chourasia/README.md
 
-<!--
-**Khushi-Chourasia/khushi-chourasia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I’m Khushi Chourasia  
+🎓 Final-year B.Tech CSE student @ CMR University (Class of 2025)  
+🌍 Based in Bangalore, India | 💻 Aspiring Full‑Stack & Backend Developer  
 
-Here are some ideas to get you started:
+🛠️ Tech Stack  
+Languages: 🐍 Python · ☕ Java · 💡 DSA    
+Frontend: 🌐 HTML5 · 🎨 CSS3 · ⚙️ JavaScript · 📱 Bootstrap  
+Backend: 🚀 Spring Boot · 🔗 RESTful APIs · 🛡️ Node.js  
+Databases: 🐘 MySQL · 🍃 MongoDB  
+Tools & Platforms: 🛠️ Git · 📂 GitHub · 🖥️ VS Code · ☁️ Cloud Basics  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏆 Certifications  
+🎖️ Microsoft Certified: Azure AI Fundamentals  
+🎖️ IBM: Getting Started with Front-End and Web Development  
+🎖️ LinkedIn: Cloud Computing Core Concepts  
+🎖️ Cisco ThingQbator – HTML & CSS  
+🎖️ TCS iON Career Edge – Young Professional  
+
+🚀 Projects  
+📱 Eco Mobile Store: Full-stack app for mobile purchases & eco-friendly trade-ins with secure payments and smart suggestions    
+👨‍💼 Employee Management System: CRUD-based Spring Boot app with manager-wise employee grouping & search features  
+
+💼 Internships & Experience  
+🌐 Web Developer Intern, Prodgy Infotech  
+💻 Python Intern, SystemTron  
+☕ Java Intern, CodSoft  
+
+📫 Let’s connect:  
+[LinkedIn](https://www.linkedin.com/in/khushi-chourasia) · 📧 khushichourasia23@gmail.com
