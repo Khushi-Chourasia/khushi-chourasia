@@ -1,4 +1,4 @@
-#👋 **Hi, I’m Khushi Chourasia**  
+#H1 👋 **Hi, I’m Khushi Chourasia**  
 ---
 🎓 **B.Tech CSE graduate** @ CMR University (Class of **2025**)  
 🌍 Based in **Bangalore, India** | 💻 Aspiring Full‑Stack & Backend Developer 
