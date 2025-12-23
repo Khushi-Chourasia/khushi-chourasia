@@ -15,9 +15,9 @@
 ## 🏆 **Certifications**  
 🎖️ Microsoft Certified: Azure AI Fundamentals  
 🎖️ IBM: Getting Started with Front-End and Web Development  
-🎖️ LinkedIn: Cloud Computing Core Concepts  
-🎖️ Cisco ThingQbator – HTML & CSS  
-🎖️ TCS iON Career Edge – Young Professional  
+🎖️ Infosys Springboard: Artificial Intelligence Virtual Internship  
+🎖️ Oracle University: Cloud Infrastructure 2025 Certified Generative AI Professional  
+🎖️ Oracle Dev Gym: Databases for Developers - Foundations
 
 ---
 ## 🚀 **Few Projects include:**
@@ -33,4 +33,4 @@
 
 ---
 ## 📫 **Let’s connect:**  
-[LinkedIn](https://www.linkedin.com/in/khushi-chourasia) · 📧 khushichourasia23@gmail.com
+[LinkedIn](https://www.linkedin.com/in/khushi-chourasia) · 📧 khushichourasia0303@gmail.com
