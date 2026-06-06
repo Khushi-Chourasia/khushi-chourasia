@@ -13,7 +13,6 @@
 **Cloud & DevOps:** ☁️ AWS · ☁️ Azure · 🐳 Docker · 🔄 CI/CD Pipelines
 **Core Concepts:** 🧩 Data Structures & Algorithms · 🏗️ Object-Oriented Programming · ⚙️ System Design · 🤝 Agile Methodology
 
-📚 Core Concepts
 ---
 ## 🏆 **Certifications**  
 🎖️ Microsoft Certified: Azure AI Fundamentals  
