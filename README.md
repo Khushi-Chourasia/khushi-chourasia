@@ -6,11 +6,11 @@
 ---
 ## 🛠️ **Tech Stack** 
 **Languages:** ☕ Java · 🐍 Python · ⚡ JavaScript · 🗄️ SQL    
-**Frontend:** 🌐 HTML5 · 🎨 CSS3 · ⚙️ JavaScript · 📱 Bootstrap · ⚛️ React.js 
+**Frontend:** 🌐 HTML5 · 🎨 CSS3 · ⚙️ JavaScript · 📱 Bootstrap · ⚛️ React.js <br>
 **Backend:** 🟢 Node.js · 🚂 Express.js · 🍃 Spring Boot · 🔗 RESTful APIs · 🔐 Spring Security  
-**Databases & Storage:** 🐘 PostgreSQL · 🐬 MySQL · 🍃 MongoDB · ☁️ AWS S3 
-**Tools & Platforms:** 🛠️ Git · 📂 GitHub · 📮 Postman · 💻 Eclipse IDE · 🎨 Canva
-**Cloud & DevOps:** ☁️ AWS · ☁️ Azure · 🐳 Docker · 🔄 CI/CD Pipelines
+**Databases & Storage:** 🐘 PostgreSQL · 🐬 MySQL · 🍃 MongoDB · ☁️ AWS S3 <br>
+**Tools & Platforms:** 🛠️ Git · 📂 GitHub · 📮 Postman · 💻 Eclipse IDE · 🎨 Canva <br>
+**Cloud & DevOps:** ☁️ AWS · ☁️ Azure · 🐳 Docker · 🔄 CI/CD Pipelines <br>
 **Core Concepts:** 🧩 Data Structures & Algorithms · 🏗️ Object-Oriented Programming · ⚙️ System Design · 🤝 Agile Methodology
 
 ---
@@ -28,8 +28,8 @@
 
 ---
 ## 💼 **Internships & Experience**  
-🔒 Privacy Operations Engineer, Abine India Pvt Ltd
-🌐 Web Developer Intern, Prodigy InfoTech
+🔒 Privacy Operations Engineer, Abine India Pvt Ltd <br>
+🌐 Web Developer Intern, Prodigy InfoTech <br>
 ☕ Java Developer Intern, CodSoft  
 
 ---
